@@ -1,2 +1,2 @@
 # execSql
-mysql sql  executed
+mysql sql executed
